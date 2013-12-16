@@ -1,4 +1,3 @@
-IMPORTANT-NOTE
-==============
+# IMPORTANT NOTE
 
-NOTE: all repos here have been migrated to github.com/kelvingu
+All repos under this account have been migrated to: https://github.com/kelvingu/
